@@ -17,9 +17,7 @@ An Excel-based retail sales analysis of a superstore, exploring sales performanc
 7. [Recommendations](#recommendations)
 8. [Dashboard](#dashboard)
 9. [Limitations](#limitations)
-10. [Skills Demonstrated](#skills-demonstrated)
-11. [Repository Structure](#repository-structure)
-
+10. [Conclusion](#conclusion)
 ---
 
 ## Project Overview
@@ -206,3 +204,13 @@ The dashboard contains:
 - **Profit is taken as given.** Cost was derived as Sales − Profit, so it reflects the dataset's own profit figures, not an independent cost source.
 - **Correlation, not causation.** The analysis shows that high discounts coincide with losses, but it can't prove discounts alone caused them (product mix, shipping and returns could also contribute).
 - **Sample data.** Results demonstrate method, not real business performance.
+
+## Conclusion
+
+This analysis revealed that strong sales performance does not necessarily translate into strong profitability. Although the Superstore generated approximately $2.30M in sales, it retained only about $286K in profit, while giving away approximately $567K through discounts. The findings highlighted significant differences in profitability across product categories, sub-categories, discount levels and states.
+
+The most notable concern was the relationship between discounting and profitability. Orders receiving discounts above 20% were increasingly associated with losses, with every order discounted above 40% resulting in negative profit. Furniture also emerged as an area requiring attention, generating substantial sales but delivering a profit margin of just 2.5%, largely due to losses from Tables and Bookcases.
+
+The analysis also showed that heavy discounting does not affect every state equally, suggesting that product mix and discount depth warrant further investigation. Meanwhile, high-performing sub-categories such as Copiers, Phones and Accessories represent opportunities to protect and build on existing profitability.
+
+Based on these findings, the business should review its discounting policies, reassess pricing and profitability within weaker product lines, and investigate state-level differences in discounting and product performance. Overall, the project demonstrates how Excel-based data analysis can turn raw retail transactions into actionable insights that support better pricing decisions, profitability management and business performance.
