@@ -1,4 +1,4 @@
-# Superstore-Profit-Analysis
+# Superstore-Business-Performance-Analysis
 
 An Excel-based retail sales analysis of a superstore, exploring sales performance, profitability, and the relationship between discounting and profit. The project uses data cleaning, formula-based calculations, PivotTables, and an interactive dashboard to identify key performance trends, loss-making areas, and opportunities for improvement.
 
