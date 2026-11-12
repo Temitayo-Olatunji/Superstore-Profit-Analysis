@@ -191,7 +191,7 @@ Texas, Pennsylvania, Ohio and Illinois give large discounts and lose money. Cali
 
 ## Dashboard
 
-![Superstore Business Performance Analysis](superstore-business-performance-analysis.png)
+![Superstore Business Performance Analysis Dashboard](superstore-business-performance-analysis.png)
 The dashboard contains:
 - Sales by category
 - Total sales by segment
